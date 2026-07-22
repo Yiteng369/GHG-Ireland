@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "Deep Learning-Based Prediction of Short-Term CO2 Emissions in Ireland"
+type: software
+authors:
+  - given-names: Yiteng
+    family-names: Zhang
+  - given-names: Arjun
+    family-names: Pakrashi
+  - given-names: Soumyabrata
+    family-names: Dev
+repository-code: "https://github.com/Yiteng369/GHG-Ireland"
+preferred-citation:
+  type: conference-paper
+  title: "Deep Learning-Based Prediction of Short-Term CO2 Emissions in Ireland"
+  authors:
+    - given-names: Yiteng
+      family-names: Zhang
+    - given-names: Arjun
+      family-names: Pakrashi
+    - given-names: Soumyabrata
+      family-names: Dev
+  year: 2024
+  doi: "10.1109/CISP-BMEI64163.2024.10906112"
+  conference:
+    name: "2024 17th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)"
